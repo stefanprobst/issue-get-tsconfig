@@ -2,6 +2,6 @@
   "name": "issue-get-tsconfig",
   "private": true,
   "dependencies": {
-    "get-tsconfig": "4.7.5"
+    "get-tsconfig": "4.7.3"
   }
 }
